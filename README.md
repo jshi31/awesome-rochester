@@ -1,4 +1,4 @@
-# Rochester Booklet
+# Ownsome Rochester
 This repository shares the experience about eating, playing and living in rochester. 
 
 ## Summary
