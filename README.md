@@ -1,4 +1,4 @@
-# Rochester Booklet
+# Ownsome Rochester
 This repository shares the experience about eating, playing and living in rochester. 
 
 ## Summary
@@ -11,4 +11,3 @@ This repository shares the experience about eating, playing and living in roches
 
 ## Acknowledgement
 Thanks [Jie Zhou](https://www.cs.rochester.edu/u/jzhou41/) for error correcting.
-
