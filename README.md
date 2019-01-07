@@ -1,5 +1,5 @@
 # Awesome Rochester
-This repository shares the experience about eating, playing and living in rochester. 
+This repository shares the experience about dining, entertaining, and other activities in Rochester, NY.
 
 ## Summary
 
