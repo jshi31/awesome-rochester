@@ -9,5 +9,10 @@ This repository shares the experience about dining, entertaining, and other acti
 ## Attentions
 - All of the content are written in Chinese. We leave the English version as future work.
 
+## Contacts
+Please drop an email to Jing Shi (jshi31@cs.rochester.edu), or Jie Zhou (jzhou41@cs.rochester.edu) 
+if you have any comments or suggestions on this repository. 
+You feedbacks will be highly appreicated!
+
 ## Acknowledgement
-Thanks [Jie Zhou](https://www.cs.rochester.edu/u/jzhou41/) for error correcting.
+We're looking forward to your voices!
