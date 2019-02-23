@@ -43,3 +43,8 @@ Rochester 的中餐是硬伤。希望有不错经验的同学能跟博主推荐�
 - 鳗鱼饭(eel over rice)
 - salmon teriyaki
 - beef teriyaki
+
+#### Edoya
+
+
+
