@@ -11,9 +11,9 @@ This repository shares the experience about dining, entertaining, and other acti
 - All of the contents are written in Chinese. We leave the English version as future work.
 
 ## Contacts
-Please do a pull request or drop an email to Jing Shi (jshi31@cs.rochester.edu) or
-Jie Zhou (jzhou41@cs.rochester.edu) 
-if you would like to contribute to the project, or just have any comments or
+Please do a pull request if you would like to contribute to the project; 
+or just drop an email to Jing Shi (jshi31@cs.rochester.edu) or
+Jie Zhou (jzhou41@cs.rochester.edu) if you have have any comments or
 suggestions on this repository. 
 You feedbacks will be highly appreicated!
 
