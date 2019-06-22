@@ -13,11 +13,8 @@ This repository shares the experience about dining, entertaining, and other acti
 ## Contacts
 Please do a pull request if you would like to contribute to the project; 
 or just drop an email to Jing Shi (jshi31@cs.rochester.edu) or
-Jie Zhou (jzhou41@cs.rochester.edu) if you have have any comments or
+Jie Zhou (jiezhou@rochester.edu) if you have have any comments or
 suggestions on this repository. 
-You feedbacks will be highly appreicated!
-
-## Acknowledgement
-Thanks [Jie Zhou](https://www.cs.rochester.edu/u/jzhou41/) for contribution!
+You feedbacks are highly appreicated!
 
 We're looking forward to your voices!
