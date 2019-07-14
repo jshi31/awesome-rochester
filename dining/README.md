@@ -8,6 +8,6 @@
 
 # 传送门
 - [Rochester](rochester.md)
-- [Bay Area](other_cities/bay.md)
+- [Bay Area](other_cities/bay_area.md)
 - [Greater Seattle Area](other_cities/seattle.md)
 - New York City (to come)
