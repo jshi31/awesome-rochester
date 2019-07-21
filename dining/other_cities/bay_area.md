@@ -28,6 +28,14 @@
 
    湘菜馆，可以说是湘菜首选，很地道。得赶早去，一次周五7pm到那排队等了一个半小时。
 
+#### East San Jose
+
+1. Tomi Sushi & Seafood Buffet
+
+   这家自助寿司海鲜性价超高，人均$24，有中式麻辣小龙虾，各类海鲜，天妇罗各类，广式点心，各类寿司。
+
+
+
 ## Milpitas
 
 Milpitas的Milpitas Square聚集了许多中餐，包括大华超市，中式捏脚，并且在这附近还有一家Great Mall，属于奥特莱斯性质的购物中心。
