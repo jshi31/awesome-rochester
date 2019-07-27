@@ -19,7 +19,7 @@
    - SkyFlyer: 把人从高空通过绳子荡下来，也很刺激，算是蹦极的简化版，需要额外交$15每人
    - Rip Roaring Rapids: 漂流，会有一些水溅到衣服里，整个过程时间也还挺长的。
 
-2. [Santa Cruz Broad Walk Amusement Park]([https://beachboardwalk.com/](https://www.google.com/url?q=https://beachboardwalk.com/&sa=D&ust=1563147257457000&usg=AFQjCNH-3OfcxvSokX51i_N2LWm6H1ivSA))
+2. [Santa Cruz Broad Walk Amusement Park](https://beachboardwalk.com/)
 
 ## 自然风光
 
