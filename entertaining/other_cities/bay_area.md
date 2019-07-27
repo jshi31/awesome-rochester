@@ -5,6 +5,20 @@
 ## 游乐场
 
 1. [California's Great America](California's Great America )
+
+   门票便宜，$42每人。下面是比较好玩的项目
+
+   - Gold Striker: 非常推荐，很颠簸，同时很刺激，都认为是游乐场里最刺激的一个过山车。
+   - RailBlazer: 该过山车跑的非常快速，刺激程度也很高。
+   - Patriot: 这个过山车相对railblazer弱一些
+   - Demon: 速度不快，但是连着几个360旋转，也很刺激。
+   - Psycho Mouse: 给小孩玩的过山车，不太刺激。
+   - Tiki Twirl: 非常推荐，娱乐性质高，且很刺激。
+   - Thunder Raceway: 卡丁车，和朋友们比赛超车挺适合，需要额外交$10每人。
+   - Drop Tower: 跳楼机，值得一跳，算是最刺激的一项。
+   - SkyFlyer: 把人从高空通过绳子荡下来，也很刺激，算是蹦极的简化版，需要额外交$15每人
+   - Rip Roaring Rapids: 漂流，会有一些水溅到衣服里，整个过程时间也还挺长的。
+
 2. [Santa Cruz Broad Walk Amusement Park]([https://beachboardwalk.com/](https://www.google.com/url?q=https://beachboardwalk.com/&sa=D&ust=1563147257457000&usg=AFQjCNH-3OfcxvSokX51i_N2LWm6H1ivSA))
 
 ## 自然风光
