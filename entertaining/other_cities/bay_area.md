@@ -4,7 +4,7 @@
 
 ## 游乐场
 
-1. [California's Great America](California's Great America)
+1. California's Great America
 
    门票便宜，$42每人。下面是比较好玩的项目
 
