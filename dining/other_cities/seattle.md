@@ -56,3 +56,18 @@
 #### Shabu Shabu Kyoto Japanese Restaurant
 日式单人小火锅，每份肉量很足。很奇葩的一点是“汤底”如果选 "traditional" 的话就是纯清水 + 一片海带。如果喜欢清水煮一切 + 蘸酱料的话可以试试这个。
 这个店的一个优势是跟目前西雅图地区唯一的鲜芋仙在同一个 plaza。
+
+#### Ironsteak Redmond
+铁板拌饭。牛肉和 salmon 的都不错，适合一个人吃。
+
+## 亚洲其他
+
+### Bai Tong
+泰国餐馆，跟玖味在一个plaza。号称 authentic Thai food. 是不是真正宗不知道，但是口味的酸甜程度有点重。
+拿微软发的 Prime Card 可以打八折。
+
+### Seoul Hot Pot
+韩国小餐馆，挨着微软。石锅拌饭一般，豆腐汤很不错。适合一个人吃。
+
+### Pho Hoa Noodle Soup
+越南米粉，在 Bai Tong 对面的小 plaza，口味清淡，非常适合一个人快速解决晚饭。隔壁就是不二家酸菜鱼和丽晶糕点店。
